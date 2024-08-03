@@ -20,7 +20,7 @@ Currently we have the following projects
 Unless stated otherwise in the projects Repository our work is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Code of Conduct
-Unless specified otherwise, all repositories use the [Kord Code of Conduct](CODE_OF_CONDUCT.md)
+Unless specified otherwise, all repositories use the [Kord Code of Conduct](.github/CODE_OF_CONDUCT.md)
 
 ## Sponsors
 We would like to thank our sponsors:

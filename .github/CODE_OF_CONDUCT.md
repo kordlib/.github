@@ -19,7 +19,7 @@ The following behaviors are expected and requested of all community members:
 Please take into account that online communities bring together people from many different cultures and backgrounds. It's important to understand that sometimes the combination of cultural differences and online interaction can lead to misunderstandings. That is why having empathy is crucial.
 
 ### How to report issues
-If you want to report another member's violations or violations of this Code of Conduct and/or need assistance because of that person's behavior, feel free to contact one of the Admins (schlaubi, lustiger.lurch) on [our Discord Server](https://discord.gg/6jcx5ev)
+If you want to report another member's violations of this Code of Conduct and/or need assistance because of that person's behavior, feel free to contact one of the Admins (schlaubi, lustiger.lurch) on [our Discord Server](https://discord.gg/6jcx5ev)
 
 ### Consequences of Unacceptable Behavior
 Unacceptable behavior from any community member will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. If a community member engages in unacceptable behavior, the Kord maintainers may take any action they deem appropriate, up to and including a temporary or permanent expulsion from the community without warning.

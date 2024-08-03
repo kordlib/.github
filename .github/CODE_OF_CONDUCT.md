@@ -26,4 +26,4 @@ Unacceptable behavior from any community member will not be tolerated. Anyone as
 
 ### License and attribution
 The license is based on [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) is distributed by Stumptown Syndicate under a Creative Commons Attribution-ShareAlike license.
-We also took inspiration from the [JetBrains](https://github.com/jetbrains#code-of-conduct) Code of Conduct
+We also took inspiration from the [JetBrains Code of Conduct](https://github.com/jetbrains#code-of-conduct)

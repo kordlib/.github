@@ -27,3 +27,6 @@ We would like to thank our sponsors:
 - [Cloudflare](https://cloudflare.com/) for providing us with a subscription for our documentation sites
 - [JetBrains](https://jb.gg/OpenSourceSupport) for providing us with CI and IDE licenses and infrastructure
 
+<a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=kord"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="200px" alt="This project is sponsored by DigitalOcean"></a>
+
+
